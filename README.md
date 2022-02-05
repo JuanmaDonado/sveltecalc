@@ -1,2 +1,3 @@
 # sveltecalc
-Text-based calculator built with Svelte.
+
+A text-based calculator built with Svelte.
